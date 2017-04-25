@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis 0.45">
+  <bounds minlon="8.48096" minlat="53.01034" maxlon="8.99127" maxlat="53.61063" origin="0.45"/>
+  <way id="3999478" version="27" timestamp="2015-09-23T14:32:51Z" uid="715371" user="715371" changeset="34207157">
+    <nd ref="20958823"/>
+    <nd ref="20973902"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Lilienthaler Heerstraße"/>
+    <tag k="note" v="Nds L 133"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="loc_name" v="Langer Jammer"/>
+    <tag k="maxspeed" v="50"/>
+  </way>
+  <way id="3999490" version="2" timestamp="2008-12-04T21:32:34Z" uid="42429" user="42429" changeset="112481">
+    <nd ref="20974130"/>
+    <nd ref="20974128"/>
+    <nd ref="20974142"/>
+    <tag k="name" v="Besenbuschkuhle"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="3999496" version="23" timestamp="2012-12-28T10:32:21Z" uid="161619" user="FvGordon" changeset="14436602">
+    <nd ref="1659476896"/>
+    <nd ref="20974104"/>
+    <tag k="name" v="Lotjeweg"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="surface" v="paved"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="maxspeed" v="30"/>
+  </way>
+  <way id="3999500" version="16" timestamp="2017-04-21T19:31:05Z" uid="1787357" user="letihu" changeset="48013612">
+    <nd ref="20974181"/>
+    <nd ref="2164639128"/>
+    <nd ref="2916316513"/>
+    <nd ref="468400068"/>
+    <nd ref="564071767"/>
+    <nd ref="2164653627"/>
+    <nd ref="2916296015"/>
+    <nd ref="20974184"/>
+    <nd ref="2916462340"/>
+    <nd ref="20974185"/>
+    <nd ref="2916462363"/>
+    <nd ref="179684176"/>
+    <nd ref="2916527824"/>
+    <nd ref="20974186"/>
+    <tag k="highway" v="residential"/>
+    <tag k="mapping_status" v="incomplete"/>
+    <tag k="name" v="Entenmoorweg"/>
+  </way>
+</osm>
